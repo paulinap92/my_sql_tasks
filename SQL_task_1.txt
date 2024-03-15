@@ -1,0 +1,14 @@
+For inquiries regarding tables within the BIOSHOP database, the following operations are available:
+
+    -Retrieve all customers who have made purchases.
+    -Calculate the aggregate quantity sold for each individual product.
+    -Determine the total expenditure made by each customer.
+    -Display all suppliers associated with each product.
+    -Enumerate all products that have not yet been ordered.
+    -Present the highest priced product available.
+    -Present the lowest priced product available.
+    -Provide an overview of the total revenue generated from all orders.
+    -Display all products provided by a designated supplier.
+    -Retrieve all orders placed within the preceding 7-day period.
+
+
